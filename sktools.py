@@ -25,11 +25,6 @@ import sklearn.metrics as metrics
 from mlxtend.plotting import plot_learning_curves
 from mlxtend.plotting import plot_decision_regions
 
-a = 0
-
-b = a + 1
-
-
 #### --- Feature
 class modelling:
 	def __init__(self):
